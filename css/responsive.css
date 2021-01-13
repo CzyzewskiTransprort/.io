@@ -185,6 +185,7 @@
 		height: 250px;
 		width:375px;
     	margin-top: 75px;
+		margin-bottom: -30px;
 	}
 	.carousel-caption {
     	top: auto;
