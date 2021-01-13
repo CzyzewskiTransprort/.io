@@ -183,7 +183,7 @@
 	/*main Slider*/
 	#slider_part {
 		height: 250px;
-		width:409px;
+		width:410px;
     	margin-top: 70px;
 		margin-bottom: -27px;
 	}
@@ -207,7 +207,7 @@
 	}
 	.carousel-indicators {
 	    left: 37%;
-	    bottom: 9%;
+	    bottom: 6%;
 	}
 	
 	.slides-control .carousel-control i {
