@@ -183,9 +183,9 @@
 	/*main Slider*/
 	#slider_part {
 		height: 250px;
-		width:375px;
-    	margin-top: 75px;
-		margin-bottom: -30px;
+		width:425px;
+    	margin-top: 70px;
+		margin-bottom: -33px;
 	}
 	.carousel-caption {
     	top: auto;
