@@ -229,6 +229,7 @@
 	.feature_title {
     	width: 60%;
     	font-size: 30px;
+		margin-top:55px;
 	}
 	.feature_content .btn-main{
 		margin-bottom: 40px;
